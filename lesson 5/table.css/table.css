@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(45deg, #a8edea, #fed6e3);
+}
+table{
+    margin: auto;
+    font-size: 50px;
+    border: #ff0051 solid 2px;
+    border-collapse: collapse;
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+td{
+    border: #ff0051 solid 2px;
+}
+td:hover, th:hover{
+    border: rgb(0, 68, 255) solid 2px;
+    background-color: springgreen;
+}
